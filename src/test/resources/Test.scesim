@@ -723,6 +723,7 @@
               <name>1|19</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">101</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
