@@ -486,7 +486,7 @@
           <expressionAlias>StructureOne.IdOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>161.0</columnWidth>
+          <columnWidth>183.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -513,7 +513,7 @@
           <expressionAlias>StructureOne.ValueOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>127.0</columnWidth>
+          <columnWidth>206.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
@@ -701,7 +701,6 @@
               <name>1|17</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">100</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -712,7 +711,6 @@
               <name>1|18</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">&quot;Value&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -723,7 +721,6 @@
               <name>1|19</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">null</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -734,7 +731,6 @@
               <name>1|20</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">null</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
