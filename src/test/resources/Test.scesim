@@ -701,6 +701,7 @@
               <name>1|17</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">100</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -711,6 +712,7 @@
               <name>1|18</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;Value&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
