@@ -513,7 +513,7 @@
           <expressionAlias>StructureOne.ValueOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>179.0</columnWidth>
+          <columnWidth>240.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -543,7 +543,7 @@
           <expressionAlias>StructureOne.StrcutureTwo.IdTwo</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>135.0</columnWidth>
+          <columnWidth>248.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -573,7 +573,7 @@
           <expressionAlias>StructureOne.StrcutureTwo.ValueTwo</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>272.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
