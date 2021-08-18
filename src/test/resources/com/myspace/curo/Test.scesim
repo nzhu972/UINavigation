@@ -513,7 +513,7 @@
           <expressionAlias>StructureOne.ValueOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>179.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -543,7 +543,7 @@
           <expressionAlias>StructureOne.StrcutureTwo.IdTwo</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>135.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
