@@ -3,7 +3,7 @@
     <scesimModelDescriptor>
       <factMappings>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>Index</name>
             <type>OTHER</type>
@@ -15,9 +15,10 @@
           <className>java.lang.Integer</className>
           <factAlias>#</factAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>70.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>Description</name>
             <type>OTHER</type>
@@ -29,9 +30,10 @@
           <className>java.lang.String</className>
           <factAlias>Scenario description</factAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>300.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>CurrentPage</step>
             </ExpressionElement>
@@ -49,9 +51,10 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FormDef</step>
             </ExpressionElement>
@@ -72,9 +75,10 @@
           <expressionAlias>Key</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FormDef</step>
             </ExpressionElement>
@@ -95,9 +99,10 @@
           <expressionAlias>Node</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FormDef</step>
             </ExpressionElement>
@@ -118,9 +123,10 @@
           <expressionAlias>Value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FormType</step>
             </ExpressionElement>
@@ -141,9 +147,10 @@
           <expressionAlias>Name</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FormType</step>
             </ExpressionElement>
@@ -164,9 +171,10 @@
           <expressionAlias>Value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -187,9 +195,10 @@
           <expressionAlias>L1Node</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -210,9 +219,10 @@
           <expressionAlias>L2Name</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -233,9 +243,10 @@
           <expressionAlias>L2Node</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -256,9 +267,10 @@
           <expressionAlias>L2Value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -279,9 +291,10 @@
           <expressionAlias>L3Name</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -302,9 +315,10 @@
           <expressionAlias>L3Node</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>L3FormDef</step>
             </ExpressionElement>
@@ -325,9 +339,10 @@
           <expressionAlias>L3Value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>NextPage</step>
             </ExpressionElement>
@@ -348,9 +363,10 @@
           <expressionAlias>Index</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>NextPage</step>
             </ExpressionElement>
@@ -371,9 +387,10 @@
           <expressionAlias>Next</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>NextPage</step>
             </ExpressionElement>
@@ -394,9 +411,10 @@
           <expressionAlias>Previous</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -417,9 +435,10 @@
           <expressionAlias>Name</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -440,9 +459,10 @@
           <expressionAlias>Value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -466,9 +486,10 @@
           <expressionAlias>StructureOne.IdOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>152.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -492,9 +513,10 @@
           <expressionAlias>StructureOne.ValueOne</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -521,9 +543,10 @@
           <expressionAlias>StructureOne.StrcutureTwo.IdTwo</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>nestedDecision</step>
             </ExpressionElement>
@@ -550,10 +573,11 @@
           <expressionAlias>StructureOne.StrcutureTwo.ValueTwo</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
-    <scesimData class="linked-list">
+    <scesimData>
       <Scenario>
         <factMappingValues>
           <FactMappingValue>
@@ -565,6 +589,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
+            <rawValue class="string">A000</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -575,6 +600,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;A000&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -735,6 +761,7 @@
               <name>1|17</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">100</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -745,6 +772,7 @@
               <name>1|18</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;Value&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -755,6 +783,7 @@
               <name>1|19</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">101</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -765,6 +794,7 @@
               <name>1|20</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;ValueOne&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -775,6 +805,7 @@
               <name>1|21</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">102</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -785,6 +816,18 @@
               <name>1|22</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;ValueTwo&quot;</rawValue>
+          </FactMappingValue>
+          <FactMappingValue>
+            <factIdentifier>
+              <name>#</name>
+              <className>java.lang.Integer</className>
+            </factIdentifier>
+            <expressionIdentifier>
+              <name>Index</name>
+              <type>OTHER</type>
+            </expressionIdentifier>
+            <rawValue class="string">1</rawValue>
           </FactMappingValue>
         </factMappingValues>
       </Scenario>
@@ -794,7 +837,7 @@
     <scesimModelDescriptor>
       <factMappings>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>1|1</name>
             <type>GIVEN</type>
@@ -807,10 +850,11 @@
           <factAlias>INSTANCE 1</factAlias>
           <expressionAlias>PROPERTY 1</expressionAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
-    <scesimData class="linked-list">
+    <scesimData>
       <BackgroundData>
         <factMappingValues>
           <FactMappingValue>
